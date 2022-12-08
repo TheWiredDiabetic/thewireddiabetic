@@ -14,8 +14,9 @@ Why don't I introduce myself to you..
 - ⌨ Understands Python, HTML and CSS.
 - 📜 Knows how to code a website with basic HTML and CSS.
 
-# My Skills
+# My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,heroku,github,discord)](https://skillicons.dev)
 - Some skills I mentioned I may be rubbish at 🤣
 
-### Thanks for reading you legend.
+# :fire: My Stats on GitHub:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheWiredDiabetic&theme=dark&background=000000)](https://git.io/streak-stats)

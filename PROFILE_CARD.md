@@ -1,3 +1,6 @@
+<!-- Image Here -->
+<img src="https://images.unsplash.com/photo-1518958632376-a65d6b8cab9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2512&q=80">
+
 # 👋 | Hey! I'm TheWiredDiabetic (Taylor) on GitHub!
 Thanks for dropping by my GitHub page, feel free to look around, explore and so on.
 
@@ -16,5 +19,6 @@ Thanks for dropping by my GitHub page, feel free to look around, explore and so 
 ### 📋 | My Skills (Icons - skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua)](https://skillicons.dev)
 
-      ### 🔥| My GitHub Stats (Unavaliable)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheWiredDiabeti&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>
+### 🔥| My GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats-beige.vercel.app?user=TheWiredDiabetic&theme=merko&border_radius=5)](https://git.io/streak-stats)
+

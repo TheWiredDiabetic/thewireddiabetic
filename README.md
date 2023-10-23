@@ -15,6 +15,7 @@ Thanks for dropping by my GitHub page, feel free to look around, explore and so 
 - 📜 | HTML 5
 - 📜 | CSS 3
 - 📜 | PY (Python)
+- 📜 | JavaScript **(Basic, Learning)**
 
 ### 📋 | My Skills (Icons - skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua)](https://skillicons.dev)

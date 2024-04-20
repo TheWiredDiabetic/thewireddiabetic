@@ -21,5 +21,5 @@ Thanks for dropping by my GitHub page, feel free to look around, explore and so 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua)](https://skillicons.dev)
 
 ### 🔥| My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-beige.vercel.app?user=TheWiredDiabetic&theme=merko&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheWiredDiabetic&theme=city-lights&hide_border=true)](https://git.io/streak-stats)
 

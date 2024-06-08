@@ -18,7 +18,7 @@ Thanks for dropping by my GitHub page, feel free to look around, explore and so 
 - 📜 | Discord.js & Express.js
 
 ### 📋 | My Skills (Icons - skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,lua,discordjs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,lua,discordjs,express,vue)](https://skillicons.dev)
 
 ### 🔥| My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheWiredDiabetic&theme=city-lights&hide_border=true)](https://git.io/streak-stats)
